@@ -1,0 +1,15 @@
+.timer-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.display {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.controls button {
+  margin: 0 0.5rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+}
